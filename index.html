@@ -1,17 +1,16 @@
 <!DOCTYPE html>
 <html lang="de">
 <head>
-  <title>Mat-O-Wahl</title>
+  <title>Volu-Mat - Campus Regensburg e.V.</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <meta name="keywords" content="Mat-O-Wahl, MatOWahl, Demokratie, Wahlen, elections, vote, Wahlbeteiligung, Fragebogen, Antworten, Positionen, Entscheidung, Hilfe, Politik, Vereine, e.V., Mitwirkung, B&uuml;rgermeister, Stadtrat, Kommunalwahl, Fachschaftsrat, Studentenrat, StuRa, Studentenparlament, Studierendenparlament, StuPa, AStA, Kreisrat, Landrat, Volksabstimmung, Plebiszit, Klon, clone, Alternative, GPL, Open Source, JavaScript, Freeware, kostenlos"/>
   <meta name="robots" content="index, follow" />
   <meta name="language" content="de" />
   <meta name="Content-Language" content="de" />
 
   <meta name="author" content="Mathias Steudtner" />
-  <meta name="description" content="Mat-O-Wahl" />
+  <meta name="description" content="Volu-Mat" />
   
 	<!-- BOOTSTRAP + JQUERY --- START -->
 
@@ -63,10 +62,16 @@
 	// $.getScript( "i18n/i18n_"+language+".js", function( data, textStatus, jqxhr ){ }) 
 	// -> wäre eleganter aber lädt zu langsam / unzuverlässig
 	</script>
-	
+
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link rel="icon" type="image/png" href="data/campus_logo.png">
 </head>
 <body>
-
+<header class="site-header">
+	<div class="logo">
+		<img src="data/campus_logo.png" alt="Campus Regensburg e.V-Logo">
+	</div>
+</header>
 
 <div class="container container-fluid theme-showcase">
 
@@ -323,16 +328,12 @@
 
 			<div class="col" >
 				<a class='btn btn-outline-dark btn-block btn-sm' role='button' href='index.html' id="restart">Button Neustart / Restart</a>
-			</div>			
-			
-			<div class="col">
-				<a class="btn btn-block btn-sm social-facebook" role='button' style='color:#fff' onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(location.href) + '&title='+encodeURIComponent(document.title), '_blank', 'location=yes,height=480,width=640,scrollbars=yes,status=yes'); return false;" title="Share on Facebook">
-				facebook</a>
 			</div>
 
-			<div class="col">
-				<a class="btn btn-block btn-sm social-twitter" role='button' onclick="window.open('https://twitter.com/share?url=' + encodeURIComponent(location.href) + '&title='+encodeURIComponent(document.title), '_blank', 'location=yes,height=480,width=640,scrollbars=yes,status=yes'); return false;" title="Share on Twitter">
-				Twitter</a>
+			<div>
+				<a class="fa fa-facebook social-media" style="color: white" href="https://www.facebook.com/campusevregensburg/" title="Facebook"></a>
+				<a class="fa fa-instagram social-media" style="color: white" href="https://www.instagram.com/campusregensburgev/" title="Instagram"></a>
+				<a class="fa fa-youtube social-media" style="color: white" href="https://www.youtube.com/channel/UC3Lek9-B_aqmsxAuTZvNP4Q" title="YouTube"></a>
 			</div>
 		</div>
 

@@ -6,7 +6,7 @@ body {
 /*	font-size:10pt; */
 	color:#000000; 
 
-	background-color: #EFC04F;
+	background-color: #779942;
 	/* background-image: linear-gradient(#EFC04F, #FFE08F); */ 
 	/* background-attachment: fixed; */
 	}
@@ -77,4 +77,59 @@ a:not(.btn):hover { color:#FF0000; text-decoration:none; }
 @keyframes myFadeOut {
 	from { opacity: 1; }
 	to { opacity: 0; }
+}
+
+.site-header {
+	display: flex;
+	align-items: center;
+	padding: 10px 20px;
+	background-color: #406B33;
+}
+
+.logo img {
+	height: 50px; /* adjust as needed */
+}
+
+/* Style all font awesome icons */
+a.fa {
+	padding: 10px;
+	font-size: 15px;
+	text-align: center;
+	text-decoration: none;
+	border-radius: 50%;
+}
+
+/* Add a hover effect if you want */
+a.fa:hover {
+	opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+a.fa-facebook {
+	background: #3B5998;
+	color: white;
+}
+
+a.fa-youtube {
+	background: #bb0000;
+	color: white;
+}
+
+a.fa-instagram {
+	background: #125688;
+	color: white;
+}
+
+.social-media {
+	all: unset;
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	width: 15px;
+	height: 15px;
+}
+.social-media a::before {
+	color:#1c1c1c
 }
