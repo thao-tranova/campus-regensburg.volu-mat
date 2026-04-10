@@ -400,8 +400,8 @@ function fnEvaluationShort(arResults)
 						tableContent += arPartyNamesLong[partyNum];
 						tableContent += "</strong>" 
 	
-						tableContent += " (&#8663; <a href='"+arPartyInternet[partyNum]+"' target='_blank' alt='Link: "+arPartyNamesLong[partyNum]+"' title='Link: "+arPartyNamesLong[partyNum]+"'>";		
-						tableContent += arPartyNamesShort[partyNum];
+						tableContent += " (&#8663; <a href='"+arPartyInternet[partyNum]+"' target='_blank' alt='Link: "+arPartyNamesLong[partyNum]+"' title='Link: "+arPartyNamesLong[partyNum]+"'>";
+						tableContent += "Link";//arPartyNamesShort[partyNum];
 						tableContent += "</a>)";
 	
 						// Beschreibung der Partei - falls in der CSV vorhanden.
@@ -803,7 +803,7 @@ function fnEvaluationByParty(arResults)
 	//			tableContent += "</span>" 
 	
 				tableContent += " (&#8663; <a href='"+arPartyInternet[partyNum]+"' target='_blank' title='"+arPartyNamesLong[partyNum]+"'>";		
-				tableContent += arPartyNamesShort[partyNum];
+				tableContent += "Link"; //arPartyNamesShort[partyNum];
 				tableContent += "</a>)";
 	
 				// Beschreibung der Partei - falls in der CSV vorhanden.
