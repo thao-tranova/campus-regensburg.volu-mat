@@ -133,3 +133,11 @@ a.fa-instagram {
 .social-media a::before {
 	color:#1c1c1c
 }
+
+.bg-cev-light-green {
+	background: #e2edde;
+}
+
+.btn-outline-dark {
+	background: #e2edde;
+}
