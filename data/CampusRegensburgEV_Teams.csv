@@ -111,72 +111,144 @@
 0;Auto-generiertes Profil für Kultur-Stage.
 0;https://campus-regensburg.de/teams/
 0;data/kultur.jpg
--1;Passt eher nicht.
-0;Neutral.
-1;Passt gut zu uns.
-0;Neutral.
-1;Passt gut zu uns.
--1;Passt eher nicht.
-1;Passt gut zu uns.
--1;Passt eher nicht.
--1;Passt eher nicht.
-0;Neutral.
--1;Passt eher nicht.
-1;Passt gut zu uns.
-1;Passt gut zu uns.
-1;Passt gut zu uns.
-1;Passt gut zu uns.
-0;Neutral.
-1;Passt gut zu uns.
--1;Passt eher nicht.
--1;Passt eher nicht.
--1;Passt eher nicht.
-0;Neutral.
-0;Neutral.
-0;Neutral.
-0;Neutral.
--1;Passt eher nicht.
-0;Neutral.
--1;Passt eher nicht.
-0;Neutral.
--1;Passt eher nicht.
-1;Passt gut zu uns.
+-1;Entspannt genießen wir erst, wenn das Kulturprogramm steht.
+1;Einen Act verpassen? Dafür entdeckt man bei uns ganz neue Dinge.
+0;Unser Workout ist eher geistig als körperlich.
+1;Auch bei spontanen Änderungen bleiben wir flexibel.
+0;Wir wissen immer, wo gerade Kultur passiert.
+0;Wir schaffen Räume für Austausch, Kreativität und Begegnung.
+0;Zwischen Workshops, Bühne und Aktionen sind wir überall unterwegs.
+0;Unser Spirit Animal ist irgendwo zwischen Bühne und Workshopraum.
+1;Kreativ austoben? Genau unser Programm.
+-1;Wir bauen keine Bühnen – wir bespielen sie.
+0;Hinter die Kulissen schauen wir regelmäßig.
+1;Wir haben ein Gespür für besondere Momente abseits der Mainstage.
+-1;Kultur geht auch durch den Magen – aber nicht nur.
+0;Wenn sich Menschen wohlfühlen und austauschen, sind wir zufrieden.
+1;Für uns ist das Festival mehr als nur Musik.
+0;Wir nutzen Social Media, aber leben vor allem das echte Erlebnis.
+-1;Wir heben eher Ideen als Gewichte.
+1;Neue Leute und Perspektiven kennenlernen gehört dazu.
+-1;Unser Motto: Mitmachen statt nur zuschauen.
+1;Wir begeistern mit besonderen Formaten.
+1;Wir können ziemlich gut erklären, warum Kulturprogramm dazugehört.
+1;Wir sind ständig auf der Suche nach neuen Ideen und Formaten.
+0;Nachhaltige Kulturangebote sind uns wichtig.
+0;Unsere Playlist ist so vielfältig wie unser Programm.
+0;Wir schaffen Angebote für alle.
+0;Ohne Planung kein Programm.
+0;Technik ist wichtig – aber nur Mittel zum Zweck.
+0;Genres sind uns egal – Vielfalt zählt.
+0;Während das Festival läuft, ist bei uns immer etwas los.
+0;Wir bringen Dinge auf den Campus, die man nicht überall findet.
 
 0;Finanzen
 0;Finanzen
 0;Auto-generiertes Profil für Finanzen.
 0;https://campus-regensburg.de/teams/
 0;data/finanzen.jpg
-0;Neutral.
-1;Passt gut zu uns.
-1;Passt gut zu uns.
-0;Neutral.
--1;Passt eher nicht.
-1;Passt gut zu uns.
--1;Passt eher nicht.
-1;Passt gut zu uns.
-0;Neutral.
-1;Passt gut zu uns.
-1;Passt gut zu uns.
-0;Neutral.
-0;Neutral.
-0;Neutral.
-1;Passt gut zu uns.
-0;Neutral.
--1;Passt eher nicht.
--1;Passt eher nicht.
-0;Neutral.
--1;Passt eher nicht.
-1;Passt gut zu uns.
--1;Passt eher nicht.
-0;Neutral.
-1;Passt gut zu uns.
-0;Neutral.
-0;Neutral.
-1;Passt gut zu uns.
-0;Neutral.
-0;Neutral.
--1;Passt eher nicht.
+1;Entspannt sind wir erst, wenn die Zahlen stimmen.
+0;Einen Act verpassen? Hauptsache das Budget passt.
+-1;Unser Workout ist Kopfrechnen unter Druck.
+1;Auch bei stressigen Zahlen bleiben wir ruhig.
+0;Wir wissen immer, wo das Geld hinfließt.
+0;Wir kümmern uns darum, dass alles finanzierbar bleibt.
+-1;Wir bewegen uns eher in Tabellen als über das Gelände.
+1;Unser Spirit Animal ist ziemlich gut mit Zahlen.
+0;Unsere Kreativität zeigt sich im Budget.
+-1;Wir bauen nichts – wir rechnen.
+0;Hinter die Kulissen schauen wir in die Kosten.
+0;Wir haben ein Auge für jedes Detail – besonders in den Zahlen.
+-1;Wir zählen eher Euros als Kalorien.
+0;Wenn alles aufgeht, sind wir zufrieden.
+0;Ohne uns läuft finanziell nichts.
+-1;Für Social Media haben wir wenig übrig.
+-1;Wir heben eher Budgets als Gewichte.
+0;Kontakt haben wir vor allem mit Rechnungen.
+0;Unser Motto: Das muss sich rechnen.
+1;Wir sorgen dafür, dass das Festival möglich ist.
+1;Wir können ziemlich gut erklären, warum etwas zu teuer ist.
+0;Wir lieben Tabellen, Zahlen und Kalkulationen.
+0;Nachhaltigkeit heißt für uns auch: sinnvoll wirtschaften.
+0;Unsere Playlist ist das Klackern der Tastatur.
+0;Wir achten darauf, dass Ressourcen fair eingesetzt werden.
+0;Ohne Planung kein Budget.
+-1;Technik? Nur wenn sie im Budget ist.
+0;Wir unterscheiden eher zwischen Soll und Haben.
+0;Während des Festivals behalten wir die Zahlen im Blick.
+0;Wir kennen eher die Kosten als die Acts.
+
+0;Sponsoring
+0;Sponsoring
+0;Auto-generiertes Profil für Sponsoring.
+0;https://campus-regensburg.de/teams/
+0;data/sponsoring.jpg
+0;Entspannt genießen wir erst, wenn die Partner stehen.
+1;Einen Act verpassen? Hauptsache die Kooperation läuft.
+0;Unser Workout ist Netzwerken.
+1;Auch bei schwierigen Gesprächen bleiben wir souverän.
+0;Wir wissen immer, wer uns unterstützt.
+1;Wir kümmern uns um starke Partnerschaften.
+1;Zwischen Meetings und Gelände sind wir überall unterwegs.
+1;Unser Spirit Animal ist ein echtes Netzwerktalent.
+0;Kreative Kooperationen sind genau unser Ding.
+-1;Wir bauen nichts – wir vernetzen.
+0;Hinter den Kulissen laufen die spannendsten Gespräche.
+0;Wir erkennen gute Chancen sofort.
+-1;Ein gutes Gespräch ersetzt manchmal ein gutes Essen.
+0;Wenn alle Partner zufrieden sind, sind wir es auch.
+0;Ohne Partnerschaften läuft vieles nicht.
+0;Social Media ist für uns auch ein wichtiges Tool.
+-1;Wir tragen eher Ideen als Kästen.
+1;Neue Leute kennenlernen gehört zu unserem Alltag.
+-1;Unser Motto: Win-win für alle.
+1;Wir begeistern andere für das Festival.
+1;Wir können ziemlich gut überzeugen.
+0;Wir recherchieren passende Partner und Möglichkeiten.
+0;Nachhaltige Kooperationen sind uns wichtig.
+0;Unsere Playlist läuft oft im Hintergrund von Meetings.
+0;Wir achten darauf, dass Kooperationen für alle passen.
+0;Ohne Planung keine Partnerschaft.
+0;Technik überlassen wir anderen.
+0;Wir unterscheiden eher zwischen Partnern und Ideen.
+0;Während des Festivals sind wir im Austausch mit allen.
+0;Wir wissen, wer das Festival möglich macht.
+
+0;Förderung
+0;Förderung
+0;Auto-generiertes Profil für Förderung.
+0;https://campus-regensburg.de/teams/
+0;data/foerderung.jpg
+1;Entspannt sind wir erst, wenn die Anträge durch sind.
+0;Einen Act verpassen? Dafür sichern wir die Finanzierung.
+-1;Unser Workout ist Texte schreiben und Deadlines einhalten.
+0;Auch bei Bürokratie bleiben wir geduldig.
+0;Wir wissen, wo es Fördermöglichkeiten gibt.
+0;Wir kümmern uns darum, dass Ideen Realität werden.
+-1;Wir sind eher am Schreibtisch als auf dem Gelände unterwegs.
+1;Unser Spirit Animal liebt gut formulierte Anträge.
+0;Kreativ sein – aber bitte förderfähig.
+-1;Wir bauen nichts – wir ermöglichen es.
+0;Hinter die Kulissen schauen wir in Richtlinien und Vorgaben.
+1;Wir haben ein Auge für förderfähige Ideen.
+-1;Wir ernähren uns hauptsächlich von Kaffee und Deadlines.
+0;Wenn ein Antrag bewilligt wird, sind wir glücklich.
+0;Ohne Förderung wäre vieles nicht möglich.
+-1;Social Media ist eher nicht unser Fokus.
+-1;Wir stemmen eher Texte als Gewichte.
+0;Kontakt haben wir viel per Mail.
+0;Unser Motto: Fristgerecht und vollständig.
+1;Wir machen Ideen finanzierbar.
+1;Wir können ziemlich gut argumentieren und begründen.
+1;Recherche ist bei uns das A und O.
+0;Nachhaltige Projekte fördern wir besonders gern.
+0;Unsere Playlist läuft leise im Hintergrund beim Schreiben.
+0;Wir achten darauf, dass Projekte inklusiv und sinnvoll sind.
+0;Ohne Struktur kein Antrag.
+-1;Technik ist für uns eher Mittel zum Zweck.
+0;Wir unterscheiden eher zwischen bewilligt und abgelehnt.
+0;Während des Festivals schauen wir, ob alles wie geplant läuft.
+0;Wir denken schon beim Planen an die Umsetzung.
 
 0;Stände
 0;Stände
@@ -363,36 +435,36 @@
 0;Auto-generiertes Profil für Nachhaltigkeit.
 0;https://campus-regensburg.de/teams/
 0;data/nachhaltigkeit.jpg
-0;Neutral.
-1;Passt gut zu uns.
-1;Passt gut zu uns.
-1;Passt gut zu uns.
-0;Neutral.
-0;Neutral.
-0;Neutral.
--1;Passt eher nicht.
-0;Neutral.
-0;Neutral.
--1;Passt eher nicht.
-0;Neutral.
-1;Passt gut zu uns.
-0;Neutral.
-1;Passt gut zu uns.
--1;Passt eher nicht.
-0;Neutral.
-0;Neutral.
-0;Neutral.
-1;Passt gut zu uns.
-0;Neutral.
-1;Passt gut zu uns.
--1;Passt eher nicht.
--1;Passt eher nicht.
-1;Passt gut zu uns.
--1;Passt eher nicht.
-1;Passt gut zu uns.
-1;Passt gut zu uns.
-0;Neutral.
-1;Passt gut zu uns.
+-1;Entspannt sind wir erst, wenn alles möglichst nachhaltig läuft.
+1;Einen Act verpassen? Hauptsache das Konzept stimmt.
+0;Wir haben im Blick, dass alles sauber und ordentlich bleibt.
+1;Auch wenn’s schwierig wird, bleiben wir konsequent.
+0;Wir wissen, wo es nachhaltige Lösungen gibt.
+0;Wir kümmern uns um Mensch, Umwelt und Ressourcen.
+1;Über das ganze Gelände unterwegs – immer auf der Suche nach Verbesserungspotenzial.
+0;Unser Spirit Animal lebt plastikfrei.
+1;Kreative Lösungen für nachhaltiges Feiern? Genau unser Ding.
+-1;Wir bauen nichts – wir denken weiter.
+-1;Hinter die Kulissen schauen wir für bessere Abläufe.
+0;Wir haben ein Auge für nachhaltige Details.
+0;Nachhaltige Verpflegung ist uns wichtig.
+0;Wenn das Gelände sauber bleibt, sind wir zufrieden.
+1;Für uns ist das Festival mehr als nur Feiern – es ist Verantwortung.
+0;Social Media nutzen wir, um auf wichtige Themen aufmerksam zu machen.
+-1;Wir stemmen eher Konzepte als Gewichte.
+1;Wir kommen gern mit Leuten ins Gespräch über Nachhaltigkeit.
+0;Unser Motto: Feiern ja – aber nicht im Müll.
+1;Wir begeistern für nachhaltiges Handeln.
+1;Wir können gut vermitteln, warum Nachhaltigkeit wichtig ist.
+0;Wir recherchieren nach den besten nachhaltigen Lösungen.
+1;Nachhaltigkeit ist für uns kein Extra, sondern Standard.
+0;Unsere Playlist ist zweitrangig – Hauptsache das Konzept stimmt.
+0;Ein sauberes Gelände ist für uns selbstverständlich.
+0;Ohne Planung keine Nachhaltigkeit.
+-1;Technik ist wichtig – aber nachhaltig eingesetzt.
+0;Wir diskutieren eher über Konzepte als über Genres.
+0;Während des Festivals sind wir ständig im Einsatz.
+0;Wir denken heute schon an morgen.
 
 0;Awareness
 0;Awareness
