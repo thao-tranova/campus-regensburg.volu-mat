@@ -391,7 +391,7 @@ function fnEvaluationShort(arResults)
 				// tableContent += "<tr id='resultsShortParty"+partyNum+"'>"
 	
 					// Parteinamen: lang, kurz, Webseite, Beschreibung
-					tableContent += "<div class='col col-10 col-md-7' role='cell'>"
+					tableContent += "<div class='col col-9 col-md-6' role='cell'>"
 					// tableContent += "<td style='width:60%;'>"
 	
 	//					tableContent += "<img src='"+arPartyLogosImg[partyNum]+"' class='rounded img-fluid float-right' alt='Logo "+arPartyNamesLong[partyNum]+"' style='margin-left: 10px; width:"+intPartyLogosImgWidth+"; height:"+intPartyLogosImgHeight+";' />"
@@ -423,7 +423,7 @@ function fnEvaluationShort(arResults)
 					// tableContent += "</td>"
 	
 					// Partei-Logo (automatisch angepasst)
-					tableContent += "<div class='col col-2 col-md-1' role='cell'>"
+					tableContent += "<div class='col col-3 col-md-2' role='cell'>"
 					// tableContent += "<td>"
 						tableContent += "<img src='"+arPartyLogosImg[partyNum]+"' class='rounded img-fluid' alt='Logo "+arPartyNamesLong[partyNum]+"' />"
 					// tableContent += "</td>"

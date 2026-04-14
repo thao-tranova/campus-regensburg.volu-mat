@@ -27,7 +27,7 @@ var TEXT_RESULTS_INFO_THESES = "Sie können Ihre eigene Meinung in der zweiten S
 var TEXT_RESULTS_INFO_PARTIES = "Dies ist eine Übersicht aller Parteien und ihrer Antworten."
 
 var TEXT_RESULTS_BUTTON_THESES = "Begründungen - Fragen und Antworten anzeigen"
-var TEXT_RESULTS_BUTTON_PARTIES= "Standpunkte - Parteien und Antworten anzeigen"
+var TEXT_RESULTS_BUTTON_PARTIES= "Standpunkte - Teams und Antworten anzeigen"
 
 // The following words may be used as ALT-Text or headers on the results-page 
 var TEXT_QUESTION = "Frage"

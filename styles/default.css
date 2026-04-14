@@ -93,7 +93,7 @@ a:not(.btn):hover { color:#FF0000; text-decoration:none; }
 /* Style all font awesome icons */
 a.fa {
 	padding: 10px;
-	font-size: 15px;
+	font-size: 20px;
 	text-align: center;
 	text-decoration: none;
 	border-radius: 50%;
@@ -107,7 +107,7 @@ a.fa:hover {
 /* Set a specific color for each brand */
 
 /* Facebook */
-a.fa-facebook {
+a.fa-facebook, a.fa-signal-messenger {
 	background: #3B5998;
 	color: white;
 }
@@ -127,8 +127,8 @@ a.fa-instagram {
 	display: inline-flex;
 	align-items: center;
 	justify-content: center;
-	width: 15px;
-	height: 15px;
+	width: 20px;
+	height: 20px;
 }
 .social-media a::before {
 	color:#1c1c1c
@@ -140,4 +140,37 @@ a.fa-instagram {
 
 .btn-outline-dark {
 	background: #e2edde;
+}
+
+.btn-block {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+@media (max-width: 768px) {
+	.container {
+		overflow: visible;
+		max-height: none;
+		height: auto;
+	}
+	tr {
+		display: grid;
+		grid-template-columns: repeat(5, 1fr);
+	}
+	h1 {
+		font-size: 1.75em;
+	}
+	h2 {
+		font-size: 1.5em;
+	}
+	.lead {
+		font-size: 1.2em;
+	}
+	.btn-lg, .btn-sm {
+		font-size: 1.2em;
+	}
+	.img-fluid {
+		object-fit: cover;
+	}
 }
